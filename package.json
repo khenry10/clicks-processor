@@ -1,0 +1,18 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "Keith Prifte's solution for Capterra's take home coding assignmnet",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "maxIpClicks": 10
+}
